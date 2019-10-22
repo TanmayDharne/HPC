@@ -1,0 +1,6 @@
+CUDA:
+	CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by Nvidia.[1] It allows 		software developers and software engineers to use a CUDA-enabled graphics processing unit (GPU) for general purpose processing
+OpenMP:
+	OpenMP (Open Multi-Processing) is an application programming interface (API) that supports multi-platform shared memory multiprocessing programming in C, C++, and 		Fortran,[3] on most platforms, instruction set architectures and operating systems, including Solaris, AIX, HP-UX, Linux, macOS, and Windows.
+MPI:
+	Message Passing Interface (MPI) is a standardized and portable message-passing standard designed by a group of researchers from academia and industry to function 		on a wide variety of parallel computing architectures. T  
